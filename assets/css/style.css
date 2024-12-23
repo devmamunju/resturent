@@ -1,0 +1,84 @@
+.emp_imag{
+
+overflow: hidden;
+
+}
+
+.emp_imag img{
+
+  transition: 0.4s;
+    
+    }
+
+    .emp_imag img:hover{
+
+      transform: scale(1.1);
+          
+          }
+
+
+
+.menubar .right_side{
+
+text-align:right;
+
+
+}
+
+
+.fotoer{
+
+    background-color: black;
+    height: 80px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    padding-top: 35px;
+}
+
+.back_image{
+
+background-image: url(../image/back.PNG);
+height: 200px;
+position: relative;
+background-repeat: no-repeat;
+background-size: cover;
+margin-bottom: 40px;
+
+
+}
+
+.cont{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+
+}
+
+
+
+
+
+
+/**************must practice*************************/
+
+/* .faq.active{}
+.faq:not(.active){
+
+
+}
+
+
+.faq .active{
+
+}
+
+.faq> .active{}
+
+.faq> :not(.active){
+
+} */
+
